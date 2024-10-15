@@ -1,0 +1,5 @@
+Flask
+transformers==4.45.1
+torch==2.4.0
+soundfile
+Werkzeug
