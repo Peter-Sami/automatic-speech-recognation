@@ -11,3 +11,5 @@ safetensors==0.4.5
 urllib3==2.2.3
 fsspec==2024.9.0
 certifi==2024.8.30
+torchaudio==2.4.0
+gunicorn==20.1.0
